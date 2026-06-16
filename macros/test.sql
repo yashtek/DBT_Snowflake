@@ -1,4 +1,4 @@
-{% macro mulesoft_dbt_process_log(
+{% macro mulesoft_dbt_process(
 action='',
 parent_process_name='',
 child_process_name='',
